@@ -31,7 +31,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const wm = 'The Mystic Bot';
   const info = ` ${tradutor.texto1[0]}
 
-  ${tradutor.texto1[1]} Readz Aleizn
+  ${tradutor.texto1[1]} 𝐁𝐎𝐓𝐒 𝐆𝐔𝐀𝐋
   ${tradutor.texto1[2]} +51992621601
   ${tradutor.texto1[3]} https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
 
@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
+        title: "𝐁𝐎𝐓𝐒 𝐆𝐔𝐀𝐋",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
